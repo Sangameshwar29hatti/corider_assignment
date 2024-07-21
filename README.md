@@ -9,20 +9,23 @@ This project is a Flask application that performs CRUD (Create, Read, Update, De
 The project is organized as follows:
 
 
-Asiignment/
+```Assignment
+Assignment/
 ├── app/
-│ ├── init.py
-│ ├── main/
-│ │ ├── init.py
-│ │ ├── routes.py
-│ ├── models.py
-│ ├── schemas.py
-│ └── config.py
+│   ├── __init__.py
+│   ├── main/
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── config.py
 ├── Dockerfile
 ├── requirements.txt
 ├── run.py
 ├── docker-compose.yml
 └── README.md
+```
+
 
 
 - **`app/`**: Contains the main application code.
