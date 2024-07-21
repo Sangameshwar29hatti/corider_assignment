@@ -9,7 +9,7 @@ This project is a Flask application that performs CRUD (Create, Read, Update, De
 The project is organized as follows:
 
 
-flask_app/
+Asiignment/
 ├── app/
 │ ├── init.py
 │ ├── main/
